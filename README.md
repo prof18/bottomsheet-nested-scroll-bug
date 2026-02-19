@@ -6,7 +6,10 @@
 
 ## Video
 
-https://github.com/user-attachments/assets/PLACEHOLDER
+
+https://github.com/user-attachments/assets/b0ea3c50-f27c-46fb-b565-5ae6d7a85e24
+
+
 
 ## Trigger Conditions
 
